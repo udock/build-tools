@@ -1,0 +1,12 @@
+{
+  "name": "@udock/build-tools",
+  "description": "@udock/build-tools",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": "bin/udock-build-tools",
+  "files": [
+    "bin",
+    "index.js"
+  ],
+  "license": "MIT"
+}
